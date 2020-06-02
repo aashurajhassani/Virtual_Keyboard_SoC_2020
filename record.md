@@ -1,4 +1,4 @@
-WEEK 1- (23rd March - 29th March)
+### WEEK 1- (23rd March - 29th March)
 
 
 Day 1-
@@ -103,7 +103,7 @@ MarkDown cheatsheet link- https://github.com/adam-p/markdown-here/wiki/Markdown-
 Summary of things learned - https://github.com/aashurajhassani/markdown_files
 
 
-WEEK 2- (30th March - 5th April)
+### WEEK 2- (30th March - 5th April)
 
 
 Day 1,2,3-
@@ -128,7 +128,7 @@ Submission of first assignment by 6th April 11:59 PM.
 Solution submitted by me - https://github.com/aashurajhassani/Virtual_Keyboard_SoC_2020/blob/master/Assignment%201/AashurajHassani_Problem_1.py
 
 
-Week 3- (6th April - 12th April)
+### WEEK 3- (6th April - 12th April)
 
 
 Documenting previous week's progress and assignment done on GitHub account.
@@ -141,13 +141,13 @@ OpenCV video tutorials- https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1Qul
 OpenCV GFG tutorials- https://www.geeksforgeeks.org/opencv-python-tutorial/
 
 
-Week 4- (13th April - 19th April)
+### WEEK 4- (13th April - 19th April)
 
 
 Continuing with the youtube tutorials
 
 
-Week 5- (20 April - 26 April)
+### WEEK 5- (20 April - 26 April)
 
 
 Documenting the things learnt from the tutorials on GitHub account.
@@ -157,19 +157,19 @@ Working on Assignment 2- Invisibility cloak using OpenCV.
 Submission of the assignment by 27th April.
 
 
-Week 6- (27 April - 3 May)
+### WEEK 6- (27 April - 3 May)
 
 
 Submitted the invisiblity cloak assignment - https://github.com/aashurajhassani/Virtual_Keyboard_SoC_2020/blob/master/Assignment%202/invisible_cloth.py
 
 
-Week 7- (4 May - 10 May)
+### WEEK 7- (4 May - 10 May)
 
 
 Looking into the things learnt before and wrapping them.
 
 
-Week 8,9- (11 May - 24 May)
+### WEEK 8,9- (11 May - 24 May)
 
 
 Tried sudoku solver problem but got stuck in the part which included machine learning.
@@ -177,7 +177,7 @@ Tried sudoku solver problem but got stuck in the part which included machine lea
 Was not able to complete it.
 
 
-Week 10- (25 May - 31 May)
+### WEEK 10- (25 May - 31 May)
 
 
 Started implementing Paper Keyboard.
