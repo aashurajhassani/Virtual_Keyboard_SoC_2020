@@ -1,3 +1,6 @@
+Note - The code takes input with a time gap of 2.5 seconds.
+
+```python
 import requests
 import cv2
 import numpy as np
@@ -715,3 +718,5 @@ while True:
 
 #out.release()
 cv2.destroyAllWindows()
+
+```
